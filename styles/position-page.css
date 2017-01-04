@@ -34,7 +34,7 @@ nav {
 }
 
 .wallpaper {
-    background-image: url('/images/outerspace_landscape.jpeg');
+    background-image: url('images/outerspace_landscape.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
