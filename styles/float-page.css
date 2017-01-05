@@ -10,3 +10,17 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.outerspace-one, .outerspace-two {
+    width: 300px;        
+}
+
+.outerspace-one {
+    float: left;
+    padding: 15px 15px 15px 0;   
+}
+
+.outerspace-two {
+    float: right;
+    padding: 15px 0 15px 15px;
+}
